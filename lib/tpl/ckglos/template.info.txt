@@ -1,0 +1,7 @@
+base     ckglos
+author   Dave Cross
+email    dave@communitykitchenglos.org.uk
+date     2024-07-22
+name     CKG Template
+desc     Template for Community Kitchen Glos CIO
+url      https://communitykitchenglos.org.uk/info
