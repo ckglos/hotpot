@@ -95,3 +95,6 @@ phpunit.phar
 *.phpunit.result.cache
 _test/data/
 _test/.rector-cache/
+/nbmeta/nbproject/private/
+/lazygit
+/nbmeta/
